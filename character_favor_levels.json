@@ -1,0 +1,2394 @@
+[
+  {
+    "character_id": 10005,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09",
+      "15"
+    ]
+  },
+  {
+    "character_id": 13008,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10010,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10007,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10011,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 10001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 20002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 10006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 20000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09",
+      "15"
+    ]
+  },
+  {
+    "character_id": 13005,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10008,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 10013,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 13007,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 23001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10012,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13010,
+    "favor_level": [
+      "01",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 23005,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 13009,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 13006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10009,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 26001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 23002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 26003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 26005,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 16003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 26004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 26000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 16000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 26002,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 13000,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 20001,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 20003,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10014,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 19017,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 13011,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10015,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10016,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10017,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10018,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 26006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10020,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10019,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23007,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 20004,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10021,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16005,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20005,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 16006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10022,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10023,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10024,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10025,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 13012,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20006,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10026,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10027,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10028,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10029,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 23008,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20007,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20008,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20009,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10030,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16007,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 20010,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10031,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10032,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20011,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10033,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 20012,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20013,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16008,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10034,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10035,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10036,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10037,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10038,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "20"
+    ]
+  },
+  {
+    "character_id": 20014,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10039,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20015,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20016,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16009,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10040,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10041,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20017,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10042,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10043,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10044,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 26007,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10045,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 26008,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10046,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10047,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "20"
+    ]
+  },
+  {
+    "character_id": 10048,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20018,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10049,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10050,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10051,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10052,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16010,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20019,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10053,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10054,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 16011,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20020,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10055,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10056,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20021,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10057,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 16012,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20022,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10058,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10059,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10060,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20023,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10061,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10062,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20024,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10063,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10064,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20025,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10065,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10066,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10067,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 26009,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10068,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10069,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10070,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20026,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10071,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10072,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 26010,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20027,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10073,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20028,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 16013,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10074,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20029,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10075,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 13013,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10076,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20030,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10077,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10078,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20031,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10079,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10080,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 26011,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10081,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10082,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10083,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20032,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10084,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10085,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20033,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16014,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10087,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10086,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10089,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10088,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20034,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10090,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 20035,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10091,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10092,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 16015,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10093,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "15"
+    ]
+  },
+  {
+    "character_id": 10094,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10095,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20036,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10096,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20037,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 26012,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10097,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10098,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10100,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10101,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10102,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 26013,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10103,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20038,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10104,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20039,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10105,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10106,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16016,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20040,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10107,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10108,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10109,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10110,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10112,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 26014,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20041,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10111,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20042,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10113,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10114,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20043,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 20044,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10115,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10116,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10117,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10118,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 16017,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20045,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10119,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20046,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10120,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20047,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 13014,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10121,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10123,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10124,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 26015,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20048,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10122,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 10125,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10126,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20049,
+    "favor_level": [
+      "02",
+      "03",
+      "05"
+    ]
+  },
+  {
+    "character_id": 10127,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10128,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20050,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20051,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10129,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16018,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10130,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10131,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20052,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10132,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20053,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10133,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10135,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08",
+      "09"
+    ]
+  },
+  {
+    "character_id": 10134,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 20054,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 16019,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20056,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20055,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10136,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10137,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10138,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 20057,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06"
+    ]
+  },
+  {
+    "character_id": 10140,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 10139,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  },
+  {
+    "character_id": 16020,
+    "favor_level": [
+      "02",
+      "03",
+      "05",
+      "06",
+      "08"
+    ]
+  }
+]
